@@ -1,0 +1,8 @@
+[scroll]>[shutdn]
+[caps]>[escape]
+[lalt]>[lwin]
+[ralt]>[lwin]
+[bspace]>[space]
+[home]>[lalt]
+[pup]>[ralt]
+[space]>[bspace]
